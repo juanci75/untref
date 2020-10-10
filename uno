@@ -6,6 +6,10 @@
   </head>
   
   <body>
+    <div>
+      Hola mundo
+      
+    </div>
   
   </body>
 
